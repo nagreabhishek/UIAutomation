@@ -1,0 +1,15 @@
+pages/ShippingPage.class
+utils/Base.class
+pages/PaymentPage.class
+pages/HomePage.class
+pages/SummaryPage.class
+utils/TestGlobals.class
+pages/SigninPage.class
+stepDefinition/Hooks.class
+utils/PropertiesReader.class
+helper/BaseActions.class
+pages/AddressPage.class
+test/Runners/TestRunner.class
+utils/DriverManager.class
+stepDefinition/PlaceOrder.class
+pages/ProductDetailsPage.class

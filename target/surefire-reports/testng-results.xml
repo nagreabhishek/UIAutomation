@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45714" started-at="2021-04-09T07:23:47 AEST" finished-at="2021-04-09T07:24:33 AEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45714" started-at="2021-04-09T07:23:47 AEST" finished-at="2021-04-09T07:24:33 AEST">
+      <class name="test.Runners.TestRunner">
+        <test-method status="PASS" signature="runScenarios(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test.Runners.TestRunner@78e67e0a]" name="runScenarios" duration-ms="41424" started-at="2021-04-09T07:23:48 AEST" description="Runs Cucumber Features" data-provider="scenarios" finished-at="2021-04-09T07:24:30 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Place an order by selecting two different products from the sub category"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Place an order for two items]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenarios -->
+        <test-method status="PASS" signature="scenarioClosure(org.testng.ITestResult)[pri:0, instance:test.Runners.TestRunner@78e67e0a]" name="scenarioClosure" is-config="true" duration-ms="4" started-at="2021-04-09T07:24:30 AEST" finished-at="2021-04-09T07:24:30 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=runScenarios status=SUCCESS method=TestRunner.runScenarios(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test.Runners.TestRunner@78e67e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioClosure -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Runners.TestRunner@78e67e0a]" name="tearDown" is-config="true" duration-ms="3331" started-at="2021-04-09T07:24:30 AEST" finished-at="2021-04-09T07:24:33 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Runners.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

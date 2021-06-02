@@ -1,0 +1,49 @@
+2021-04-09 07:23:59,454 [main] INFO Shopping - Browser Launched Successfully
+2021-04-09 07:24:01,093 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:01,094 [main] INFO Shopping - Successfully selected subCategory: CASUAL DRESSES
+2021-04-09 07:24:02,685 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:02,687 [main] INFO Shopping - Successfully clicked on addToCart button
+2021-04-09 07:24:03,921 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:06,442 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:06,443 [main] INFO Shopping - Successfully selected subCategory: Blouses
+2021-04-09 07:24:06,722 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:06,723 [main] INFO Shopping - Successfully clicked on addToCart button
+2021-04-09 07:24:09,768 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:10,513 [main] INFO Shopping - Successfully verified product quantity in cart: 2
+2021-04-09 07:24:13,955 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:13,958 [main] INFO Shopping - Successfully cllicked on Proceed to checkout button
+2021-04-09 07:24:14,361 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:14,559 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:14,560 [main] INFO Shopping - Successfully clicked on create an account button.
+2021-04-09 07:24:16,847 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:16,857 [main] INFO Shopping - Successfully selected title: [[ChromeDriver: chrome on MAC (9a72106c5686895ba134cd5c574f670a)] -> xpath: //div[@class='radio-inline'][1]]
+2021-04-09 07:24:17,064 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:17,065 [main] INFO Shopping - Successfully entered firstname: Abhi
+2021-04-09 07:24:17,161 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:17,161 [main] INFO Shopping - Successfully entered lastname: Nagre
+2021-04-09 07:24:17,327 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:17,327 [main] INFO Shopping - Successfully entered password: Abhi$499
+2021-04-09 07:24:17,550 [main] INFO Shopping - Successfully selected value from the dropdown
+2021-04-09 07:24:17,768 [main] INFO Shopping - Successfully selected value from the dropdown
+2021-04-09 07:24:17,851 [main] INFO Shopping - Successfully selected value from the dropdown
+2021-04-09 07:24:17,851 [main] INFO Shopping - Successfully selected DoB: 19/1/2010
+2021-04-09 07:24:17,993 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:17,995 [main] INFO Shopping - Successfully entered company: WooliesX
+2021-04-09 07:24:18,098 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:18,098 [main] INFO Shopping - Successfully entered address: 2 Good St
+2021-04-09 07:24:18,240 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:18,241 [main] INFO Shopping - Successfully entered city: Sydney
+2021-04-09 07:24:18,337 [main] INFO Shopping - Successfully selected text from the dropdown
+2021-04-09 07:24:18,338 [main] INFO Shopping - Successfully selected state: Alaska
+2021-04-09 07:24:18,468 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:18,469 [main] INFO Shopping - Successfully entered postalcode: 00000
+2021-04-09 07:24:18,570 [main] INFO Shopping - Text entered Successfully
+2021-04-09 07:24:18,570 [main] INFO Shopping - Successfully entered mobilePhone: 0481019322
+2021-04-09 07:24:21,588 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:23,395 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:25,498 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:26,928 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:29,404 [main] INFO Shopping - Successfully clicked on element
+2021-04-09 07:24:29,428 [main] INFO Shopping - Message present on screen and verified successfully
+2021-04-09 07:24:29,437 [main] INFO Shopping - Place an order by selecting two different products from the sub category is Pass
+2021-04-09 07:24:30,110 [main] INFO Shopping - Browser closed Successfully

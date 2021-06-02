@@ -1,0 +1,49 @@
+2021-04-09 07:23:59,454 - Shopping -INFO - Browser Launched Successfully
+2021-04-09 07:24:01,093 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:01,094 - Shopping -INFO - Successfully selected subCategory: CASUAL DRESSES
+2021-04-09 07:24:02,685 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:02,687 - Shopping -INFO - Successfully clicked on addToCart button
+2021-04-09 07:24:03,921 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:06,442 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:06,443 - Shopping -INFO - Successfully selected subCategory: Blouses
+2021-04-09 07:24:06,722 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:06,723 - Shopping -INFO - Successfully clicked on addToCart button
+2021-04-09 07:24:09,768 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:10,513 - Shopping -INFO - Successfully verified product quantity in cart: 2
+2021-04-09 07:24:13,955 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:13,958 - Shopping -INFO - Successfully cllicked on Proceed to checkout button
+2021-04-09 07:24:14,361 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:14,559 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:14,560 - Shopping -INFO - Successfully clicked on create an account button.
+2021-04-09 07:24:16,847 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:16,857 - Shopping -INFO - Successfully selected title: [[ChromeDriver: chrome on MAC (9a72106c5686895ba134cd5c574f670a)] -> xpath: //div[@class='radio-inline'][1]]
+2021-04-09 07:24:17,064 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:17,065 - Shopping -INFO - Successfully entered firstname: Abhi
+2021-04-09 07:24:17,161 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:17,161 - Shopping -INFO - Successfully entered lastname: Nagre
+2021-04-09 07:24:17,327 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:17,327 - Shopping -INFO - Successfully entered password: Abhi$499
+2021-04-09 07:24:17,550 - Shopping -INFO - Successfully selected value from the dropdown
+2021-04-09 07:24:17,768 - Shopping -INFO - Successfully selected value from the dropdown
+2021-04-09 07:24:17,851 - Shopping -INFO - Successfully selected value from the dropdown
+2021-04-09 07:24:17,851 - Shopping -INFO - Successfully selected DoB: 19/1/2010
+2021-04-09 07:24:17,993 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:17,995 - Shopping -INFO - Successfully entered company: WooliesX
+2021-04-09 07:24:18,098 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:18,098 - Shopping -INFO - Successfully entered address: 2 Good St
+2021-04-09 07:24:18,240 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:18,241 - Shopping -INFO - Successfully entered city: Sydney
+2021-04-09 07:24:18,337 - Shopping -INFO - Successfully selected text from the dropdown
+2021-04-09 07:24:18,338 - Shopping -INFO - Successfully selected state: Alaska
+2021-04-09 07:24:18,468 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:18,469 - Shopping -INFO - Successfully entered postalcode: 00000
+2021-04-09 07:24:18,570 - Shopping -INFO - Text entered Successfully
+2021-04-09 07:24:18,570 - Shopping -INFO - Successfully entered mobilePhone: 0481019322
+2021-04-09 07:24:21,588 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:23,395 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:25,498 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:26,928 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:29,404 - Shopping -INFO - Successfully clicked on element
+2021-04-09 07:24:29,428 - Shopping -INFO - Message present on screen and verified successfully
+2021-04-09 07:24:29,437 - Shopping -INFO - Place an order by selecting two different products from the sub category is Pass
+2021-04-09 07:24:30,110 - Shopping -INFO - Browser closed Successfully

@@ -1,0 +1,15 @@
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/HomePage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/AddressPage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/SigninPage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/test/Runners/TestRunner.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/PaymentPage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/utils/PropertiesReader.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/ProductDetailsPage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/helper/BaseActions.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/ShippingPage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/stepDefinition/Hooks.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/stepDefinition/PlaceOrder.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/utils/Base.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/utils/DriverManager.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/pages/SummaryPage.java
+/Users/apurva/eclipse-workspace/UIAutomationBDD/src/test/java/utils/TestGlobals.java
